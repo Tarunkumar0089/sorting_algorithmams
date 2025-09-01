@@ -12,6 +12,7 @@ public class quick {
                 arr[i]=arr[j];
                 arr[j]=temp;
             }
+
         }
         i++;
         // swap pivot element 
